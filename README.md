@@ -1,6 +1,7 @@
 
 _Skytils Dupe Checker 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock_    
-*Adds high-value item dupe checker  
+
+*Adds high-value item dupe checker*  
 
 *A dupe checker that is much more reliable than SBE and Skytils dupe checker, this one still works even after most updates* 
 
