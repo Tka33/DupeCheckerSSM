@@ -1,5 +1,5 @@
 
-NBT Dupe Checker 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock_    
+_NBT Dupe Checker 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock_    
 
 ***Adds high-value item dupe checker***  
 
